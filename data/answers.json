@@ -1,0 +1,182 @@
+[
+    {
+        "question": "what is the name ",
+        "answer": [
+            {
+                "score": 0.9794179797172546,
+                "answer": "AMRITPAL SINGH",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "page": 1
+    },
+    {
+        "question": "What is the complete gmail id?",
+        "answer": [
+            {
+                "score": 0.6491357684135437,
+                "answer": "amritpalsingh1018@gmail.com",
+                "start": 6,
+                "end": 6
+            }
+        ],
+        "page": 1
+    },
+    {
+        "question": "What is the telephone number?",
+        "answer": [
+            {
+                "score": 4.594129521251489e-09,
+                "answer": "11/2021 - 07/2023.",
+                "start": 119,
+                "end": 121
+            }
+        ],
+        "page": 1
+    },
+    {
+        "question": "What is the  LinkedIn ID ?",
+        "answer": [
+            {
+                "score": 0.31158366799354553,
+                "answer": "+1(226) 961-9248",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "page": 1
+    },
+    {
+        "question": "Where did they work in the latest experience?",
+        "answer": [
+            {
+                "score": 0.3177016079425812,
+                "answer": "Mohali, India",
+                "start": 123,
+                "end": 124
+            }
+        ],
+        "page": 1
+    },
+    {
+        "question": "what is the name of company they worked in the experience section",
+        "answer": [
+            {
+                "score": 0.9976115822792053,
+                "answer": "AMRITPAL SINGH",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "page": 1
+    },
+    {
+        "question": "what are the dates mention in the latest company in the experience",
+        "answer": [
+            {
+                "score": 0.9992569088935852,
+                "answer": "11/2021 - 07/2023.",
+                "start": 119,
+                "end": 121
+            }
+        ],
+        "page": 1
+    },
+    {
+        "question": "what is work done in the latest experience?",
+        "answer": [
+            {
+                "score": 0.11014430969953537,
+                "answer": "gain practical experience and learn from industry professionals.",
+                "start": 105,
+                "end": 112
+            }
+        ],
+        "page": 1
+    },
+    {
+        "question": "what are all the tasks done in the latest experince?",
+        "answer": [
+            {
+                "score": 0.005814665462821722,
+                "answer": "data cleansing and formatting",
+                "start": 212,
+                "end": 215
+            }
+        ],
+        "page": 1
+    },
+    {
+        "question": "what is name of the university  DURING bachelors?",
+        "answer": [
+            {
+                "score": 0.9902943968772888,
+                "answer": "St. Clair",
+                "start": 28,
+                "end": 29
+            }
+        ],
+        "page": 1
+    },
+    {
+        "question": "what is the bachelors's course?",
+        "answer": [
+            {
+                "score": 0.09763967990875244,
+                "answer": "Aspiring Data Scientist,",
+                "start": 15,
+                "end": 17
+            }
+        ],
+        "page": 1
+    },
+    {
+        "question": "what is name of the university  DURING masters?",
+        "answer": [
+            {
+                "score": 0.056158971041440964,
+                "answer": "St. Clair",
+                "start": 28,
+                "end": 29
+            }
+        ],
+        "page": 1
+    },
+    {
+        "question": "what is the masters's course?",
+        "answer": [
+            {
+                "score": 0.01068041566759348,
+                "answer": "Post-Graduation in Data Analytics",
+                "start": 21,
+                "end": 24
+            }
+        ],
+        "page": 1
+    },
+    {
+        "question": "what is name of the college or university of latest education?",
+        "answer": [
+            {
+                "score": 0.8897513151168823,
+                "answer": "St. Clair College of Applied Arts & Technology.",
+                "start": 28,
+                "end": 35
+            }
+        ],
+        "page": 1
+    },
+    {
+        "question": "what is the latest course ?",
+        "answer": [
+            {
+                "score": 0.9596719145774841,
+                "answer": "data science",
+                "start": 60,
+                "end": 61
+            }
+        ],
+        "page": 1
+    }
+]
